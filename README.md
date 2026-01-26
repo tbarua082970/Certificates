@@ -14,7 +14,7 @@ Certificates span analytics, finance, supply chain, operations, leadership, and 
 
 This repository contains my professional certificates and continuous learning records.
 
-## Coursera Courses
+## Coursera Courses:
 
 | Sl | Certificate | Institute | File |
 |---:|-------------|-----------|------|
